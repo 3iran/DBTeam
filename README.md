@@ -233,7 +233,7 @@ you can start the bot this way. Note that it only will be recovering the bot if 
 it won't recover of vps hibernation  or system problems.
 
 You need to have [screen](https://www.gnu.org/software/screen) installed:
-`sudo apt get-install screen`           
+`sudo apt-get install screen`           
 Once installed, kill all the telegram-cli and screen processes running on your vps:
 ```bash
 killall screen
